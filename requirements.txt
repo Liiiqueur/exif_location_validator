@@ -1,0 +1,11 @@
+exifread
+Pillow
+piexif
+folium
+pytz
+geopy
+reportlab
+pandas
+matplotlib
+jinja2
+timezonefinder
