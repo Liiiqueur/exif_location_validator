@@ -1,5 +1,3 @@
-# exif_analyzer_project/main.py
-
 import os
 import sys
 import time

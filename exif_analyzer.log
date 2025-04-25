@@ -1,0 +1,92 @@
+2025-04-26 01:52:08,315 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 01:52:08,342 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 01:52:08,342 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 01:52:08,343 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 01:52:08,343 - exifanalyzer - INFO - ExifAnalyzer initialized (output_dir=output)
+2025-04-26 02:05:53,549 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:05:53,584 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:05:53,584 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:05:53,588 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:05:53,588 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:06:08,337 - exifanalyzer - INFO - 이미지 분석 시작: C:/Users/Yungeonwoo/Desktop/20231012_101604.jpg
+2025-04-26 02:06:08,348 - exifextractor - INFO - EXIF 데이터 추출 성공: C:/Users/Yungeonwoo/Desktop/20231012_101604.jpg
+2025-04-26 02:06:09,160 - locationvalidator - INFO - 역지오코딩 성공: (37.451860799722226, 127.12725769999999) -> G-SPACE, 성남대로, 태평동, 수정구, 성남시, 경기도, 13108, 대한민국
+2025-04-26 02:06:09,160 - locationvalidator - INFO - 거리 계산: 18.33km (기준치: 1.0km)
+2025-04-26 02:06:09,490 - exifanalyzer - INFO - 이미지 분석 완료: C:/Users/Yungeonwoo/Desktop/20231012_101604.jpg
+2025-04-26 02:06:09,499 - locationvalidator - INFO - 지도 생성 완료: output\location_map.html
+2025-04-26 02:10:37,126 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:10:37,168 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:10:37,168 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:10:37,169 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:10:37,169 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:14:13,498 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:14:13,533 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:14:13,533 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:14:13,533 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:14:13,534 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:14:33,354 - exifanalyzer - INFO - 이미지 분석 시작: C:/Users/Yungeonwoo/Desktop/20231012_101604.jpg
+2025-04-26 02:14:33,366 - exifextractor - INFO - EXIF 데이터 추출 성공: C:/Users/Yungeonwoo/Desktop/20231012_101604.jpg
+2025-04-26 02:14:34,228 - locationvalidator - INFO - 역지오코딩 성공: (37.451860799722226, 127.12725769999999) -> G-SPACE, 성남대로, 태평동, 수정구, 성남시, 경기도, 13108, 대한민국
+2025-04-26 02:14:34,228 - locationvalidator - INFO - 거리 계산: 18.33km (기준치: 1.0km)
+2025-04-26 02:14:34,550 - exifanalyzer - INFO - 이미지 분석 완료: C:/Users/Yungeonwoo/Desktop/20231012_101604.jpg
+2025-04-26 02:14:34,560 - locationvalidator - INFO - 지도 생성 완료: output\location_map.html
+2025-04-26 02:15:06,822 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:15:06,848 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:15:06,849 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:15:06,849 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:15:06,849 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:15:16,673 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:15:16,701 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:15:16,701 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:15:16,702 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:15:16,702 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:15:27,590 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:15:27,621 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:15:27,622 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:15:27,622 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:15:27,622 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:20:10,923 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:20:10,954 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:20:10,954 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:20:10,954 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:20:10,954 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:20:48,751 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:20:48,777 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:20:48,777 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:20:48,777 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:20:48,777 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:22:18,983 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:22:19,022 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:22:19,022 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:22:19,022 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:22:19,022 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:26:32,579 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:26:32,617 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:26:32,617 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:26:32,617 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:26:32,618 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:28:40,552 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:28:40,588 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:28:40,588 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:28:40,588 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:28:40,589 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:29:02,262 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:29:02,295 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:29:02,295 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:29:02,295 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:29:02,296 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:29:30,144 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:29:30,171 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:29:30,171 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:29:30,171 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:29:30,171 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:32:28,700 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:32:28,728 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:32:28,728 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:32:28,729 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:32:28,729 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:34:14,223 - exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 02:34:14,251 - locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 02:34:14,252 - timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 02:34:14,252 - reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 02:34:14,252 - exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)

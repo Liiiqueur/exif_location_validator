@@ -5,7 +5,8 @@ from tkinter import filedialog, ttk
 
 class ExifAnalyzerGUI:
     """EXIF 메타데이터 분석 도구 GUI 클래스"""
-    
+    ICON_PATH = os.path.join(os.path.dirname(__file__), 'GC_3rd_smartsicurity.ico')
+
     def __init__(self, root, analyzer):
         """
         초기화 메서드
@@ -18,8 +19,15 @@ class ExifAnalyzerGUI:
         self.analyzer = analyzer
         self.reference_location = None
         self.analysis_results = []
+
+         # 창 아이콘 설정
+        if os.path.exists(self.ICON_PATH):
+            try:
+                self.root.iconbitmap(self.ICON_PATH)
+            except Exception as e:
+                print(f"아이콘 로드 실패 (iconbitmap): {e}")
         
-        self.root.title("EXIF 메타데이터 분석 도구")
+        self.root.title("EXIF Location Validator")
         self.root.geometry("900x700")
         
         self._create_widgets()
