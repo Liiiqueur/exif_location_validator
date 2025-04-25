@@ -1,10 +1,10 @@
 import os
 import logging
 from typing import Dict, Any, List, Tuple, Optional
-from exifextractor import ExifExtractor
-from locationvalidator import LocationValidator
-from timeanalyzer import TimeAnalyzer
-from reportgenerator import ReportGenerator
+from components.exifextractor import ExifExtractor
+from components.locationvalidator import LocationValidator
+from components.timeanalyzer import TimeAnalyzer
+from components.reportgenerator import ReportGenerator
 
 logger = logging.getLogger(__name__)
 

@@ -5,7 +5,7 @@ from tkinter import filedialog, ttk
 
 class ExifAnalyzerGUI:
     """EXIF 메타데이터 분석 도구 GUI 클래스"""
-    ICON_PATH = os.path.join(os.path.dirname(__file__), 'GC_3rd_smartsicurity.ico')
+    ICON_PATH = os.path.join(os.path.dirname(__file__), '../icon/GC_3rd_smartsicurity.ico')
 
     def __init__(self, root, analyzer):
         """

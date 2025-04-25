@@ -34,7 +34,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler("exif_analyzer.log"),
+        logging.FileHandler("log/exif_analyzer.log"),
         logging.StreamHandler()
     ]
 )
@@ -42,15 +42,15 @@ logging.basicConfig(
 logger = logging.getLogger("EXIF_Analyzer")
 
 # ====== 사용자 정의 모듈 ======
-from exifanalyzer import ExifAnalyzer
-from exifextractor import ExifExtractor
-from locationvalidator import LocationValidator
-from timeanalyzer import TimeAnalyzer
-from reportgenerator import ReportGenerator
+from components.exifanalyzer import ExifAnalyzer
+from components.exifextractor import ExifExtractor
+from components.locationvalidator import LocationValidator
+from components.timeanalyzer import TimeAnalyzer
+from components.reportgenerator import ReportGenerator
 
 # GUI 모듈은 선택적으로 처리
 try:
-    from gui import ExifAnalyzerGUI
+    from gui.gui import ExifAnalyzerGUI
 except ImportError:
     ExifAnalyzerGUI = None
 
