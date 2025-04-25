@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 🚀 사용 예시
 ```bash
-python main.py
+python.exe main.py --gui   
 ```
 1. ‘파일 선택’ 또는 ‘폴더 선택’ 클릭
 2. 기준 위치(위도,경도) 입력 (예: `37.5665,126.9780`)
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ### 🚀 Usage
 ```bash
-python main.py
+python.exe main.py --gui   
 ```
 1. Click **Select File** or **Select Directory**
 2. Enter reference location (latitude, longitude), e.g.: `37.5665,126.9780`
