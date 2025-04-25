@@ -1,5 +1,8 @@
 ![EXIF Validator](https://img.shields.io/badge/EXIF-Validator-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
@@ -40,7 +43,7 @@ python main.py
 4. 결과 탭에서 EXIF → 지도 → 보고서 확인!
 
 ### 📄 라이선스
-MIT License © 2025 Liqueur
+© 2025 Liiiqueur. 본 프로젝트의 모든 권리는 Liiiqueur에게 있습니다.
 
 ---
 
@@ -81,4 +84,4 @@ python main.py
 4. Explore results in **Image Info**, **Map**, and **Report** tabs!
 
 ### 📄 License
-MIT License © 2025 Liqueur
+© 2025 Liiiqueur. All rights reserved.
