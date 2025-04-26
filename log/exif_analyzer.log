@@ -1,0 +1,25 @@
+2025-04-26 23:25:46,104 - components.exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 23:25:46,163 - components.locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 23:25:46,163 - components.timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 23:25:46,165 - components.reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 23:25:46,165 - components.exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 23:26:04,900 - components.exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 23:26:04,967 - components.locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 23:26:04,971 - components.timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 23:26:04,972 - components.reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 23:26:04,972 - components.exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-26 23:26:34,675 - components.exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-26 23:26:34,729 - components.locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-26 23:26:34,730 - components.timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-26 23:26:34,731 - components.reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-26 23:26:34,731 - components.exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-27 00:01:13,213 - components.exifextractor - INFO - ExifExtractor 초기화 완료
+2025-04-27 00:01:13,271 - components.locationvalidator - INFO - LocationValidator 초기화 완료
+2025-04-27 00:01:13,271 - components.timeanalyzer - INFO - TimeAnalyzer 초기화 완료
+2025-04-27 00:01:13,272 - components.reportgenerator - INFO - ReportGenerator 초기화 완료 (출력 디렉토리: output)
+2025-04-27 00:01:13,273 - components.exifanalyzer - INFO - ExifAnalyzer 초기화 완료 (출력 디렉토리: output)
+2025-04-27 00:01:23,943 - components.exifanalyzer - INFO - 이미지 분석 시작: C:/Users/Yungeonwoo/Desktop/KakaoTalk_20250426_030145265_09.jpg
+2025-04-27 00:01:23,954 - components.exifextractor - INFO - EXIF 데이터 추출 성공: C:/Users/Yungeonwoo/Desktop/KakaoTalk_20250426_030145265_09.jpg
+2025-04-27 00:01:25,049 - components.locationvalidator - INFO - 역지오코딩 성공: (33.87328055555555, 130.88380555555554) -> 香春口二丁目, 쿠라키타 구, 키타큐슈시, 후쿠오카현, 802-0065, 일본
+2025-04-27 00:01:25,657 - components.exifanalyzer - INFO - 이미지 분석 완료: C:/Users/Yungeonwoo/Desktop/KakaoTalk_20250426_030145265_09.jpg
+2025-04-27 00:01:25,891 - components.locationvalidator - INFO - 지도 생성 완료: output\location_map.html
